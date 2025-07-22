@@ -1,7 +1,7 @@
 # License Plate Recognition Workshop - Requirements
 # For Cloudera AI Environment: hol_lpr
 
-# Deep Learning Framework
+# Deep Learning Framework.
 tensorflow>=2.16.0
 keras>=3.0.0
 
