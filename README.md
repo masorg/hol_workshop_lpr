@@ -2,7 +2,7 @@
 
 A comprehensive hands-on workshop for building and deploying License Plate Recognition (LPR) models using Cloudera AI (CAI) platform. This workshop covers the complete machine learning lifecycle from data exploration to model deployment.
 
-## Workshop Overview
+## Workshop Overview.
 
 This workshop demonstrates how to leverage Cloudera AI for rapid ML prototyping and operationalization, focusing on a real-world License Plate Recognition use case. Participants will learn best practices for computer vision projects, model experimentation, tracking, and deployment strategies.
 
